@@ -1,3 +1,7 @@
+> **This fork: [my course work](LEARNING_LOG.md)** — every week rebuilt on local open-source models, with the
+> results. The finished project lives in [spanish-tutor-ai](https://github.com/MrEug3n1o/spanish-tutor-ai).
+> — Yevhenii Dyl
+
 # LLM Engineering - Master AI and LLMs
 
 ## Your 8 week journey to proficiency starts today
