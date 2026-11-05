@@ -195,13 +195,16 @@ challenge/
 wandb/
 
 week2/**/prices.db
+week2/decks/
 week4/main.cpp
 week4/main
 week4/main.exe
 week4/main.rs
+week4/build/
 
 week5/preprocessed_db/
 week5/vector_db/
+week5/local_db/
 
 
 local/
@@ -213,3 +216,11 @@ week6/*/*.jsonl
 week6/*.pth
 week6/*.joblib
 week8/*.pth
+week3/meeting.wav
+
+week7/models/
+week7/adapters/
+week7/data/
+week7/logs/
+week6/models/
+week6/decks/
